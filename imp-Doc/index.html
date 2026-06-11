@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>API Integration & Development Roadmap for Frontend Developer</title>
+<style>
+  body {
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    background: #f4f6f9;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+  }
+  .container {
+    max-width: 1000px;
+    margin: auto;
+    background: #fff;
+    padding: 30px 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+  }
+  h1 {
+    text-align: center;
+    color: #2c3e50;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 10px;
+  }
+  h2 {
+    color: #2980b9;
+    margin-top: 30px;
+    border-left: 5px solid #3498db;
+    padding-left: 10px;
+  }
+  h3 {
+    color: #16a085;
+    margin-top: 15px;
+  }
+  ul {
+    margin: 8px 0 15px 20px;
+  }
+  li {
+    margin-bottom: 5px;
+  }
+  .phase {
+    background: #ecf0f1;
+    padding: 15px 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    border-left: 6px solid #3498db;
+  }
+  .deliverable {
+    background: #eafaf1;
+    padding: 10px 15px;
+    border-left: 4px solid #27ae60;
+    margin-top: 10px;
+    border-radius: 5px;
+  }
+  .final {
+    background: #fff7e6;
+    border-left: 6px solid #f39c12;
+  }
+  footer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 0.9em;
+    color: #777;
+  }
+</style>
+</head>
+<body>
+  <div class="container">
+    <h1>🚀 API Integration & Development Roadmap<br><small>For Frontend Developers</small></h1>
+
+    <!-- Phase 1 -->
+    <div class="phase">
+      <h2>📅 Phase 1: Foundations (Week 1–2)</h2>
+      <h3>🎯 Goals</h3>
+      <p>Understand how the web communicates and what APIs really are.</p>
+      <h3>📚 Topics</h3>
+      <ul>
+        <li><strong>HTTP Basics:</strong> Request/Response cycle, methods (GET, POST, PUT, PATCH, DELETE), status codes, headers, params, body.</li>
+        <li><strong>API Types:</strong> REST, GraphQL (intro), WebSockets (intro).</li>
+        <li><strong>Data Formats:</strong> JSON, XML (basic).</li>
+        <li><strong>Tools:</strong> Postman, Insomnia, Thunder Client, Browser DevTools.</li>
+      </ul>
+      <div class="deliverable">✅ <strong>Deliverable:</strong> Test public APIs like JSONPlaceholder and OpenWeather using Postman.</div>
+    </div>
+
+    <!-- Phase 2 -->
+    <div class="phase">
+      <h2>📅 Phase 2: Core Integration Techniques (Week 3–4)</h2>
+      <h3>🎯 Goals</h3>
+      <p>Make actual API calls from the frontend.</p>
+      <h3>📚 Topics</h3>
+      <ul>
+        <li>Fetch API (native browser)</li>
+        <li>Axios HTTP client</li>
+        <li>Promises & async/await</li>
+        <li>Error handling (try/catch, status checks)</li>
+        <li>CORS basics</li>
+        <li>Environment variables (.env)</li>
+      </ul>
+      <div class="deliverable">✅ <strong>Deliverable:</strong> Build a small app (e.g., Weather App or User Directory) using Fetch/Axios.</div>
+    </div>
+
+    <!-- Phase 3 -->
+    <div class="phase">
+      <h2>📅 Phase 3: Working with Frameworks (Week 5–6)</h2>
+      <h3>🎯 Goals</h3>
+      <p>Integrate APIs within modern frontend frameworks.</p>
+      <h3>📚 Topics</h3>
+      <ul>
+        <li>API calls in React / Angular / Vue components</li>
+        <li>useEffect / lifecycle hooks for fetching</li>
+        <li>State management (Redux, Context API, Pinia, NgRx)</li>
+        <li>Loading, error, and empty states</li>
+        <li>Pagination, infinite scroll, search & filters</li>
+      </ul>
+      <div class="deliverable">✅ <strong>Deliverable:</strong> Build a CRUD app integrated with a REST API.</div>
+    </div>
+
+    <!-- Phase 4 -->
+    <div class="phase">
+      <h2>📅 Phase 4: Authentication & Security (Week 7)</h2>
+      <h3>🎯 Goals</h3>
+      <p>Securely connect frontend with backend APIs.</p>
+      <h3>📚 Topics</h3>
+      <ul>
+        <li>JWT (JSON Web Token) authentication</li>
+        <li>OAuth 2.0 basics</li>
+        <li>Session vs Token authentication</li>
+        <li>Storing tokens (localStorage vs cookies)</li>
+        <li>Refresh tokens & interceptors (Axios)</li>
+        <li>Role-based access control (RBAC)</li>
+      </ul>
+      <div class="deliverable">✅ <strong>Deliverable:</strong> Implement Login/Signup with protected routes using JWT.</div>
+    </div>
+
+    <!-- Phase 5 -->
+    <div class="phase">
+      <h2>📅 Phase 5: Advanced API Concepts (Week 8–9)</h2>
+      <h3>🎯 Goals</h3>
+      <p>Master modern data-fetching patterns.</p>
+      <h3>📚 Topics</h3>
+      <ul>
+        <li>React Query / TanStack Query / SWR</li>
+        <li>Caching, retries, background refetching</li>
+        <li>GraphQL with Apollo Client / urql</li>
+        <li>WebSockets & real-time data (Socket.IO)</li>
+        <li>File upload/download APIs</li>
+        <li>Optimistic UI updates</li>
+      </ul>
+      <div class="deliverable">✅ <strong>Deliverable:</strong> Build a real-time chat or live dashboard app.</div>
+    </div>
+
+    <!-- Phase 6 -->
+    <div class="phase">
+      <h2>📅 Phase 6: Performance, Testing & Best Practices (Week 10)</h2>
+      <h3>🎯 Goals</h3>
+      <p>Make API integrations efficient, reliable, and maintainable.</p>
+      <h3>📚 Topics</h3>
+      <ul>
+        <li>Debouncing & throttling API calls</li>
+        <li>Lazy loading & code splitting</li>
+        <li>Mocking APIs (MSW, JSON Server)</li>
+        <li>Unit & integration testing (Jest, React Testing Library)</li>
+        <li>API documentation (Swagger / OpenAPI)</li>
+        <li>Logging and monitoring (Sentry)</li>
+      </ul>
+      <div class="deliverable">✅ <strong>Deliverable:</strong> Add unit tests and error monitoring to your project.</div>
+    </div>
+
+    <!-- Phase 7 -->
+    <div class="phase final">
+      <h2>📅 Phase 7: Real-World Project & Deployment (Week 11–12)</h2>
+      <h3>🎯 Goals</h3>
+      <p>Build and deploy a full-featured frontend app integrated with APIs.</p>
+      <h3>📚 Topics</h3>
+      <ul>
+        <li>Connect with a real backend (Node.js / Firebase / Supabase)</li>
+        <li>CI/CD pipelines (GitHub Actions)</li>
+        <li>Deploy on Vercel / Netlify / AWS Amplify</li>
+        <li>Environment-based configurations</li>
+        <li>Performance optimization & SEO basics</li>
+      </ul>
+      <div class="deliverable">🏆 <strong>Final Project:</strong> Build a production-ready app (e.g., E-commerce, Task Manager, or Analytics Dashboard) with full API integration.</div>
+    </div>
+
+    <footer>
+      Created for Frontend Developers | © 2026 Decimal Point's Workspace
+    </footer>
+  </div>
+</body>
+</html>
