@@ -1,0 +1,169 @@
+ 10.209.240.43  --ip address
+10.209.241.230
+system pass :- 517151
+ 
+PC ID :- kiran.aher@decimalpointanalytics.com
+PC Password:Kiran5171
+ 
+Mail ID : kiran.aher@decimalpointanalytics.com
+Password: @Kir.aN$5171*#
+
+kiran.aher@decimalpointanalytics.com
+@Kir.aN$5171*#
+ 
+ 
+https://bitbucket.org/decimal-point-analytics/workspace/overview/
+bitbucket
+kiran.aher@decimalpointanalytics.com
+@Kiran1234
+drowinboxid-kiran.aher@decimalpointanalytics.com
+drowinbox:-Kiran@5171
+ 
+Username: kiran_aher
+Password: deHkl27^Aq9ijx
+URL: https://jenkins-oci.decimalpointanalytics.com
+@Kir.aN$5171
+ 
+https://timesheet.decimalpointanalytics.com/home
+timesheet: 1857
+password: Kiran@5171
+ 
+https://dpa.hono.ai/login
+Hono id:1857
+pass: Kiran5171
+ 
+ 
+grayt hr: 1857
+password: Kiran@5171
+ 
+16:015:53
+ 
+adminlte for bootstrap dashboard
+powertoys 
+ 
+
+<Container>
+                    <Box pt={5}>
+                        <Grid container alignItems="center" justifyContent='center' spacing={4}>
+                            <Grid item lg={4} md={4} sm={6} xs={12}>
+ 
+                            </Grid>
+                            <Grid item lg={4} md={4} sm={6} xs={12}>
+ 
+                            </Grid>
+                        </Grid>
+                    </Box>
+ </Container>
+ 
+Wishing you a very happy birthday Akshay !! 
+ 
+ 
+Hi Team, I will be on leave today due to a family function. I’ll be available on call if anything urgent comes up. Thank you.
+ https://codepen.io/Manimaran31/pen/oKwoNg 
+https://codepen.io/vajapravin23/pen/LYEedwP
+-HTML singal select with search
+ 
+Welcome 
+
+http://newsite1.airawatindices.com/  ----airawat beta
+ 
+https://betadpa.decimalpointanalytics.com/  ------dpa beta
+ 
+https://betawebscraperportal.decimalpointanalytics.com/ -----ai web scraper
+ 
+https://www.aim-india.in/cgi-sys/suspendedpage.cgi  ---advanced investment mechanics
+ 
+.MuiAutocomplete-option
+.MuiAutocomplete-listbox
+.MuiAutocomplete-paper
+ 
+.MuiTooltip-tooltip {
+  font-size: 10px !important;
+  font-weight: 600 !important;
+  background-color: black !important;
+}
+ 
+.MuiTooltip-arrow {
+  color: black !important;
+}
+ 
+style={{ backgroundImage: "url(" + Banner1 + ")" }} className="banner_img1"
+ 
+background-color: rgb(160, 160, 171) !important; 
+background-blend-mode: multiply !important;
+ 
+flexWrap={'wrap'}
+ 
+      <Grid container alignItems="center" justifyContent="center" spacing={3}>
+                        <Grid size={{ xs: 12, sm: 6, md: 4, lg: 4 }}>
+ 
+                        </Grid>
+                    </Grid>
+ 
+.table-search ::placeholder {
+  letter-spacing: 5px !important;
+  font-weight: 600 !important;
+  font-size: 14px !important;
+  color: #858a8c !important;
+}
+
+.table-search .MuiOutlinedInput-input {
+  font-size: 12px !important;
+  line-height: normal !important;
+  color: var(--black) !important;
+  padding: 7px !important;
+  padding-left: 0px !important;
+}
+
+.table-search .MuiSvgIcon-root {
+  font-size: 22px !important;
+  color: #bfbfbf !important;
+}
+
+.table-search
+  .MuiOutlinedInput-root.Mui-focused
+  .MuiOutlinedInput-notchedOutline { 
+  border: 1px solid var(--primary) !important;
+}
+
+import React from "react";
+import SearchIcon from '@mui/icons-material/Search';
+import { Box, InputAdornment, TextField } from "@mui/material";
+
+const TableSearch = () => {
+  return (
+    <Box className="table-search">
+      <TextField
+        variant="outlined"
+        size="small"
+        placeholder="SEARCH"
+        sx={{ width: 220 }}
+        InputProps={{
+          startAdornment: (
+            <InputAdornment position="start">
+              <SearchIcon style={{ fontSize: 20 }} />
+            </InputAdornment>
+          ),
+        }}
+      />
+    </Box>
+  );
+};
+
+export default TableSearch; 
+
+GIT
+ 
+git stash for remove the comments
+git stash pop for revert the comments
+ 1.Amicus-https://devpefundfe.decimalpointanalytics.com/
+2.Goodyear-https://indiasms-test.ap.goodyear.com/
+3.QIC pillar 2 - https://dev-pillar-tax.qic-insured.com/login
+4.DocuAgentliQ-https://sba-agent-uat.decimalpointanalytics.com/login
+5.RealEdge  Rent-Roll- 
+6.NHIT-Traffic-
+7.QIC-ETL 
+8.CEAT-
+ 
+Decimal Point Analytics
+ 
